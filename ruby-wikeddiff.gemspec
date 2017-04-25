@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %(This is a port of wikEdDiff.)
   spec.description   = %(This is a port of wikEdDiff.)
-  spec.homepage      = 'http://example.com'
+  spec.homepage      = 'https://github.com/pkordel/ruby-wikeddiff'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the
